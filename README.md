@@ -8,3 +8,6 @@ ya resolvi ejercicio 1
 ya resolvi ejercicio 2
 
 ya resolvi ejercicio 3
+
+ya resolvi ejercicio 4
+
