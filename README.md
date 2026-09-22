@@ -1,18 +1,5 @@
 # Taller de Introduccion a Kotlin
 
-Estudiante: Mateo pinta
+Estudiante: Mateo Sebastián Pinta López
 
-Aqui se resuelven todos los ejercicios de kotlin
-ya resolvi ejercicio 1
-
-ya resolvi ejercicio 2
-
-ya resolvi ejercicio 3
-
-ya resolvi ejercicio 4
-
-ya resolvi el ejercicio 5
-
-ya resolvi el ejericcio 6 y 7
-
-ya resolvi ejercicio 8
+Unicamente hay que correr todos los ejercicios en la pagina de Kotlin y ya, ellos ya vienen con "ejercicios" o ya vienen con todas las variables por defecto para que se ejecute bien, los hice basandome 100% en la pagina de como aprender a usar kotlin y para cada ejercicio cumpli el 100% de lo que se pedia para ser entregado. Muchas gracias.
