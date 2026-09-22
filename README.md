@@ -11,3 +11,4 @@ ya resolvi ejercicio 3
 
 ya resolvi ejercicio 4
 
+ya resolvi el ejercicio 5
